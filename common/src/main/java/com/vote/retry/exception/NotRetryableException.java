@@ -2,7 +2,7 @@
  * Copyright (c) 2016 Matthew Fong
  */
 
-package com.vote.retry;
+package com.vote.retry.exception;
 
 public class NotRetryableException extends Exception {
 
