@@ -21,6 +21,9 @@
         <module>common-bom</module>
         <module>service-bom</module>
         <module>service-common</module>
+        <module>voting-api</module>
+        <module>voting-service</module>
+        <module>voting-client</module>
     </modules>
 
 </project>
